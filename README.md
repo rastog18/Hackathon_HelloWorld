@@ -62,4 +62,4 @@ Priyanka
 
 -----
 
-Happy freebie hunting at Purdue University! If you have any questions or encounter any issues, feel free to reach out to us through the [issue tracker](https://github.com/yourusername/purdue-free-stuff-finder/issues).
+Happy freebie hunting at Purdue University!
